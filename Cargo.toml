@@ -1,0 +1,12 @@
+[package]
+name = "xgrep"
+version = "0.1.0"
+authors = ["imxood <imxood@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "a tool, use reg express, grep and find"
+repository = "https://github.com/rust-lang/cargo/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
