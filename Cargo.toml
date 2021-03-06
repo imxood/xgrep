@@ -5,7 +5,7 @@ authors = ["imxood <imxood@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "a tool, use reg express, grep and find"
-repository = "https://github.com/rust-lang/cargo/"
+repository = "https://github.com/imxood/xgrep"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
